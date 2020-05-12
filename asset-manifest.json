@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/itsberkelium.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/itsberkelium.github.io/static/js/main.92ffcbdf.chunk.js",
+    "main.js.map": "/itsberkelium.github.io/static/js/main.92ffcbdf.chunk.js.map",
+    "runtime-main.js": "/itsberkelium.github.io/static/js/runtime-main.f517c1de.js",
+    "runtime-main.js.map": "/itsberkelium.github.io/static/js/runtime-main.f517c1de.js.map",
+    "static/js/2.0ae451f4.chunk.js": "/itsberkelium.github.io/static/js/2.0ae451f4.chunk.js",
+    "static/js/2.0ae451f4.chunk.js.map": "/itsberkelium.github.io/static/js/2.0ae451f4.chunk.js.map",
+    "index.html": "/itsberkelium.github.io/index.html",
+    "precache-manifest.7ac7b8c042b80febad09cba1348c37d0.js": "/itsberkelium.github.io/precache-manifest.7ac7b8c042b80febad09cba1348c37d0.js",
+    "service-worker.js": "/itsberkelium.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/itsberkelium.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0ae451f4.chunk.js.LICENSE.txt": "/itsberkelium.github.io/static/js/2.0ae451f4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/itsberkelium.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f517c1de.js",
+    "static/js/2.0ae451f4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.92ffcbdf.chunk.js"
+  ]
+}
