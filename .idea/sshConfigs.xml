@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="139.59.150.102" id="3d9c212a-b883-4d97-b31d-dd2c408ddf50" port="22" customName="berke.xyz" nameFormat="CUSTOM" username="berkelium" />
+    </configs>
+  </component>
+</project>
